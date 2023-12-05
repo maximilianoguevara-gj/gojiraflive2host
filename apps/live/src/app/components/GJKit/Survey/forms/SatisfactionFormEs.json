@@ -1,0 +1,52 @@
+{
+  "fvv": 1,
+  "pageHistory": 0,
+  "fbzx": "-139046728606422160",
+  "action": "e/1FAIpQLSfZPzPcYZnJcGo3CgY5HEjWz_yMTSHSeOyL-tfKjEicxn-Lbg",
+  "title": "Nos interesa tu opinión",
+  "description": "",
+  "fields": [
+    {
+      "label": "¿Cómo calificarías tu experiencia en el evento?",
+      "description": null,
+      "type": "LINEAR",
+      "id": "53755753",
+      "legend": { "labelFirst": "Muy mal", "labelLast": "Muy bien" },
+      "options": [
+        { "label": "1" },
+        { "label": "2" },
+        { "label": "3" },
+        { "label": "4" },
+        { "label": "5" }
+      ],
+      "required": true
+    },
+    {
+      "label": "Dejanos un comentario o sugerencia para que podamos mejorar",
+      "description": null,
+      "type": "LONG_ANSWER",
+      "id": "1276005629",
+      "required": false
+    },
+    {
+      "label": "Tienda del evento",
+      "description": null,
+      "type": "SHORT_ANSWER",
+      "id": "1648092254",
+      "required": false
+    },
+    {
+      "label": "Company",
+      "description": null,
+      "type": "SHORT_ANSWER",
+      "id": "596185364",
+      "required": false
+    }
+  ],
+  "fieldsOrder": {
+    "53755753": 0,
+    "596185364": 3,
+    "1276005629": 1,
+    "1648092254": 2
+  }
+}

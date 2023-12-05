@@ -1,0 +1,16 @@
+export const EventLogsEs = {
+  CALL_FINISHED: 'call-finished',
+  USER_HANG_UP: 'user-hang-up',
+  PRODUCT_ADDED_TO_CART: 'product-added-to-cart',
+  CHECKOUT_STARTED: 'checkout-started',
+  CHECKOUT_SUCCESS: 'checkout-success',
+  CHECKOUT_FAILURE: 'checkout-failure',
+  CHECKOUT_PENDING: 'checkout-pending',
+  BUYER_CALL_ENGAGEMENT: 'buyer-call-engagement',
+  ANONIMO_WEB: 'anonimo-web',
+  CART_INITIALIZED: 'cart-initialized',
+  CALL_INITIALIZED: 'call-initialized',
+  BUYER_ARRIVED: 'buyer-arrived',
+  PRODUCT_REMOVED_FROM_CART: 'product-removed-from-cart',
+  SELLER_DOES_NOT_PICK_UP: 'seller-does-not-pick-up',
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jiraf.gojiraf.qa",
+      "sha256_cert_fingerprints": [
+        "F2:14:92:F3:8F:05:6E:AA:61:67:51:6D:DC:9A:F8:7B:A4:01:AD:7F:46:33:C3:20:F2:60:BF:DA:D5:ED:0C:DD"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jiraf.gojiraf.uat",
+      "sha256_cert_fingerprints": [
+        "CD:AD:D5:72:CF:E1:EE:B9:BF:92:BF:20:93:E6:61:37:55:0D:5F:E3:A5:FB:A6:48:E5:5D:C7:76:E6:DF:8A:17"
+      ]
+    }
+  },
+  [
+    [
+      {
+        "relation": [
+          "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+          "namespace": "android_app",
+          "package_name": "com.jiraf.gojiraf",
+          "sha256_cert_fingerprints": [
+            "E1:30:D8:47:51:53:92:EA:A5:D8:6E:8B:0F:07:E7:EF:1D:01:65:78:88:AC:6C:A7:C1:E2:89:98:22:64:E2:D9"
+          ]
+        }
+      }
+    ]
+  ]
+]

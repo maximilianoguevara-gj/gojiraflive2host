@@ -1,0 +1,11 @@
+export const ExternalProductsRepository = {
+  VTEX: 'VTEX',
+  MAGENTO2: 'MAGENTO2',
+  TIENDA_NUBE: 'TIENDA_NUBE',
+  FENICIO: 'FENICIO',
+  ESSEN: 'ESSEN',
+  ESSEN_ECOMMERCE: 'ESSEN_ECOMMERCE',
+  SEARS: 'SEARS',
+  SHOPIFY: 'SHOPIFY',
+  LINX: 'LINX',
+}

@@ -1,0 +1,29 @@
+{
+    "author": "GoJiraf",
+    "dependencies": {
+        "@datapunt/matomo-tracker-react": "^0.5.1",
+        "@gojiraf/auth": "*",
+        "react": "^17.0.2",
+        "state": "*"
+    },
+    "description": "",
+    "devDependencies": {
+        "@types/react": "^17.0.52",
+        "react-ga4": "^2.0.0",
+        "tsup": "^6.5.0"
+    },
+    "keywords": [],
+    "license": "MIT",
+    "main": "dist/index.js",
+    "name": "@gojiraf/analytics",
+    "peerDependencies": {
+        "react-ga4": "^2.0.0"
+    },
+    "scripts": {
+        "build": "tsup",
+        "dev": "npm run build -- --watch",
+        "test": "tsdx test --passWithNoTests"
+    },
+    "types": "dist/index.d.ts",
+    "version": "1.0.0"
+}

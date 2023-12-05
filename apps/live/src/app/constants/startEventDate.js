@@ -1,0 +1,1 @@
+export const SECONDS_TO_ADD_EVENT_DATE = 600
