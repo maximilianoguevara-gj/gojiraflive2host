@@ -1,0 +1,19 @@
+{
+  "name": "zustand-xstate-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "dev": "npm run build -- --watch"
+  },
+  "keywords": [],
+  "author": "GoJiraf",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^6.5.0",
+    "xstate": "^4.34.0",
+    "zustand": "^4.1.4"
+  }
+}
